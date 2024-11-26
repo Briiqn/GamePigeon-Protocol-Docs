@@ -9,7 +9,7 @@
 
 
 
-### Parameters ###
+### Parameters (ALL GamePigeon Messages SHOULD contain these) ###
   - sender -> UUID of the sender
   - ios -> iOS version of the sender
   - ver -> GamePigeon Version of the sender
