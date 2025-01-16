@@ -19,7 +19,7 @@ All GamePigeon messages must include these base parameters:
 
 | Parameter | Type   | Description                    |
 |-----------|--------|--------------------------------|
-| sender    | String | UUID of the message sender     |
+| sender    | String | GUID of the message sender     |
 | ios       | String | iOS version of the sender      |
 | ver       | Int    | GamePigeon version of sender   |
 | tver      | Int    | Game-specific version number   |
