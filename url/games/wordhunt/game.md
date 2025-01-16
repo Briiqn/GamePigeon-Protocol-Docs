@@ -62,7 +62,7 @@ When constructing a Word Hunt message:
 
 ### Example Message
 ```
-sender=UUID&ios=15.0&ver=1[...]&score1=9999999&words1=9999999&words_list1=GET|REKT|NOOB|IM|PRO|ANDROID|BEST|LOL|BRIIQN
+sender=[GUID]&ios=15.0&ver=1[...]&score1=9999999&words1=9999999&words_list1=GET|REKT|NOOB|IM|PRO|ANDROID|BEST|LOL|BRIIQN
 
 ```
 ![image](https://github.com/user-attachments/assets/c46c0dba-0c89-42b0-8f2b-2979baa59954)
